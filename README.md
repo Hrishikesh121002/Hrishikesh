@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Hrishikesh Mudgal. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hrishikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=//www.linkedin.com/in/hrishikesh-mudgal-9a58b0212/)](//www.linkedin.com/in/hrishikesh-mudgal-9a58b0212/)
 [![Gmail Badge](https://img.shields.io/badge/-hrishikeshmudgal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishikeshmudgal@gmail.com)](mailto:hrishikeshmudgal@gmail.com)
